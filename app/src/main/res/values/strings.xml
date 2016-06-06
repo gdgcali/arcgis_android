@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="app_name">Editor de Geometria</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="saved">Nuevo feature gravado</string>
+    <string name="action_add">Agrega Feature</string>
+    <string name="action_save">Grava</string>
+    <string name="action_discard">Desechado</string>
+    <string name="action_delete">Elimina Punto</string>
+    <string name="action_undo">Borrar</string>
+    <string name="title_add_point">Adicionando un Punto</string>
+    <string name="title_add_polyline">Adicionan una Polyline</string>
+    <string name="title_add_polygon">Adicionando un Polygon</string>
+    <string name="title_feature_type">Seleccione el tipo de función</string>
+    <string name="title_confirm_discard">Desecha nuevo feature</string>
+    <string name="title_edit_failed">Fallido al gravar</string>
+    <string name="msg_confirm_discard">¿Está seguro de que desea descartar la función agregada?</string>
+</resources>
